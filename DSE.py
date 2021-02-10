@@ -10,3 +10,4 @@ while True:
     sleep(1)
     cp.red_led = False
     sleep(1)
+    sleep(1)
